@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I’m Birendra Kalauni
-  ### BSc CSIT Student | Open Source Learner
+  ### BSc CSIT Student | Tech Enthusiast
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Hamaro Gunaso - Public Issue Reporting System**.
@@ -22,15 +22,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=birendrakalauni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=birendrakalauni&limit=5&theme=default&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=birendrakalauni&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ## 📂 Featured Projects
 ### 📱 Hamaro Gunaso
 Complaint Management Mobile Application built with Flutter & Firebase.
@@ -41,5 +32,4 @@ Simple application to calculate Body Mass Index.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-⭐ Thanks for visiting my profile!
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ⭐ Thanks for visiting my profile!
