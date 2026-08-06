@@ -21,8 +21,8 @@
 ### 📱 Hamaro Gunaso
 Complaint Management Mobile Application built with Flutter & Firebase.
 
-### 📱 BMI Calculator
-Simple application to calculate Body Mass Index.
+### 📱 Flashcard Quiz App
+A Flutter flashcard quiz app with SQLite offline storage for creating, reviewing, and managing study flashcards.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
