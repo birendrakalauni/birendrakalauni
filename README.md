@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I’m Birendra Kalauni
-  ### BSc CSIT Student | Tech Enthusiast
+  ### BSc CSIT Student | Flutter Developer | Tech Enthusiast
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Hamaro Gunaso - Public Issue Reporting System**.
@@ -20,9 +20,18 @@
 ## 📂 Featured Projects
 ### 📱 Hamaro Gunaso
 Complaint Management Mobile Application built with Flutter & Firebase.
+**Tech:** Flutter • Dart • Firebase • Cloud Firestore • Cloudinary • Provider
+
+🔗 [View Project](https://github.com/birendrakalauni/hamaro_gunaso)
+
 
 ### 📱 Flashcard Quiz App
 A Flutter flashcard quiz app with SQLite offline storage for creating, reviewing, and managing study flashcards.
+**Tech:** Flutter • Dart • SQLite • Provider
+
+🔗 [View Project](https://github.com/birendrakalauni/flashcard_quiz_app)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
