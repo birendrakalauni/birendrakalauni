@@ -2,8 +2,8 @@
   ### BSc CSIT Student | Flutter Developer | Tech Enthusiast
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Hamaro Gunaso - Public Issue Reporting System**.
-- 🌱 I’m currently learning **Flutter, Firebase, and Backend Development**.
+- 🔭 I’m currently working on **RideTogether: Real-time group riding and trip management platform**.
+- 🌱 I’m currently learning **Flutter, Dart, Firebase, and Backend Development**.
 - 💻 Fun fact: **My code works… I just don't know why**.
 
 ## 🌐 Socials:
