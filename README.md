@@ -1,5 +1,10 @@
 # 💫 Hi 👋, I’m Birendra Kalauni
   ### BSc CSIT Student | Flutter Developer | Tech Enthusiast
+  ## 🌐 Portfolio
+
+Explore my personal portfolio to learn more about my projects, technical skills, and development journey.
+
+🔗 **[Visit My Portfolio](https://birendra-kalauni.web.app)**
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **RideTogether: Real-time group riding and trip management platform**.
